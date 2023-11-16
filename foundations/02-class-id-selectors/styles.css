@@ -1,0 +1,21 @@
+.odd{
+    background-color: pink;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#cooler{
+    font-size: x-large;
+}
+
+.num2{
+    color: rgb(9, 135, 245); 
+    font-size: xx-large;
+}
+
+.num4 {
+    background-color: rgb(84, 236, 84);
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}
