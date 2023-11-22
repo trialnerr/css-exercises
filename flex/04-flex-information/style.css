@@ -1,5 +1,7 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  /* added after viewing solution */
+  text-align: center;
 }
 
 img {
@@ -28,25 +30,26 @@ img {
 .title-wrapper{
   display: flex;
   justify-content: center;
-  padding: 8px;
   margin-bottom: 32px;
 }
 .wrapper{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   gap: 52px; 
   flex-wrap: wrap;
 }
 
 .image-and-text{
-  display:flex; 
+  /* display:flex; 
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 200px;
+  wasnt necessary after comparing with solution*/
+  max-width: 200px;
 }
 
 .text{
   text-align: center;
   /* width: 200px; */
 }
+
